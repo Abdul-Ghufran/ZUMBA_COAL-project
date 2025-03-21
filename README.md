@@ -5,3 +5,5 @@ The Zumba game is a tile-matching puzzle where players use a stationary cannon t
 
 Objective: Use strategic aiming to form chain reactions by aligning groups of matching-colored balls. Points are awarded based on chain bonuses and gap creation, rewarding delayed eliminations.
 Controls: The player operates a cannon that can hold two balls, allowing them to switch between the two before shooting. Balls move along a visible path toward a danger zone, and players must align shots with others of the same color to score.
+
+Instructions: Setup the irvine library using online youtube tutorial and then run the code file.
